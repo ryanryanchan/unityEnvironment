@@ -1,0 +1,8 @@
+UNITY PROJECT IMPROVEMENTS
+
+- put trees in a list associated with tiles, spawn more trees per tile
+- better character controller
+	- control the geko???
+- whales updating on different frames
+- underwater effect
+- 

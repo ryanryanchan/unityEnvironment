@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CubeMovement.cs">
+    <Files>
+      <File FileName="Assets/models/gecko/GeckoController.cs" Line="118" Column="71" />
+      <File FileName="Assets/Scripts/CubeMovement.cs" Line="22" Column="58" />
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="115" Column="10" />
+      <File FileName="Assets/Scripts/EndlessTerrain.cs" Line="238" Column="90" />
+      <File FileName="Assets/Scripts/CameraSwitcher.cs" Line="31" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="3rdPerson+Fly" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerScripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Bonehead" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Gecko" expanded="True" />
+                  <Node name="Utils" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="models" expanded="True">
+                <Node name="gecko" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Boids" expanded="True">
+                  <Node name="BehaviorScripts" expanded="True" />
+                </Node>
+                <Node name="CubeMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8e176f3-cb00-4595-b661-992a70f7c825" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
